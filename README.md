@@ -5,6 +5,7 @@ https://bakke.be is designed to be lightweight and fast to load.
 
 Tools to build the site:
   * Atom: https://atom.io/
+  * Hosted by https://one.com
 
 The site use the following integrations:
   * Embedded timeline from Twitter: https://help.twitter.com/en/using-twitter/embed-twitter-feed
