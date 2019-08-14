@@ -10,6 +10,7 @@ Tools and resources used to build [bakke.be](https://bakke.be)
 ### The site use the following integrations:
   * Embedded timeline from [Twitter](https://help.twitter.com/en/using-twitter/embed-twitter-feed)
   * Icons from [Ionicons](https://ionicons.com)
+  * Error pages from [HTTP Cats](https://http.cat/).
   
 ### hWiki.bakke.be
   * My wiki is built with [GitBook](https://www.gitbook.com/) and synced with GitHub.
